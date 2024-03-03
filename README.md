@@ -4,7 +4,6 @@ My name is Marwan Sorour and I am a student at the University of Bristol, Englan
 
 Skills: AWS / Java / Python / Go / C / Haskell / API / Flask / AI / Machine Learning
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarwanSorour0821)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marwan-sorour-537607215/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marwan_sorour821/)  
