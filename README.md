@@ -14,5 +14,4 @@ Skills: AWS / Java / Python / Go / C / Haskell / API / Flask / AI / Machine Lear
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanSorour0821)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanSorour0821&show_icons=true)  
 
